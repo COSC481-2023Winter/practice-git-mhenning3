@@ -1,3 +1,8 @@
 This is the version of the main branch.
+<<<<<<< HEAD
 This is feature 1 implemented in the branch feature1.
 
+=======
+
+This is feature 2 implemented in the branch feature2.
+>>>>>>> feature2
